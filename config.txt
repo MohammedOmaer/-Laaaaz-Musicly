@@ -1,6 +1,6 @@
-owner=318857032964767744
-prefix=1
-game=1play
+owner=510563385469960195
+prefix=J
+game=Lplay
 stayinchannel=true
 songinstatus=false
-token=NTc5ODM2NDQwMjYzNzg2NTA4.XOH84g.PzKq7lcimkrTVep6AkzEf63UCvk
+token=NTgwMTA4NDM3Nzk5ODI5NTE3.XOL6Mg.C89isoJP8otEfqtNV8AwpkEdt1A

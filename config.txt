@@ -1,4 +1,5 @@
-owner=510563385469960195
+owner=318857032964767744
+
 prefix=J
 game=Lplay
 stayinchannel=true

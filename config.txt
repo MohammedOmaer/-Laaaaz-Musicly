@@ -1,4 +1,4 @@
-owner=318857032964767744
+owner=510563385469960195
 
 prefix=J
 game=Lplay
